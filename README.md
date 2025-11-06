@@ -1,5 +1,1 @@
-Hi Welcome to my Github! 
-Currently it is an unsorted collection of code I developed for my various classes. 
-The topics include linear programming, machine learning, and neural networks! 
-
-P.S. - ask me about my current projects in predicting employee turnover using neural networks as well as using conic programming for assortment optimization problems and using Reinforcement Learning to beat Wordle!
+My coursework is organizing into my work with Deep Learning in Modern_AI, my work with Machine Learning with Scikit-Learn in ML_ScikitLearn, my work with Unstructured & Big Data Analytics in Unstructured_Data, and my work in mathematical programming in Gurobi in Optimization_Modeling
